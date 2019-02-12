@@ -1,3 +1,2 @@
-# p5 boilerplate
-
-A p5 boilerplate using parcel and babel
+# p5-boilerplate
+p5 project boilerplate using parcel and babel
